@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment2Q4</string>
+    <string-array name="spinner_array">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+</resources>
